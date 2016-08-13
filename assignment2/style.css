@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+body {
+    background: lightyellow;
+    font-size: 18px;
+    line-height: 27px;
+}
+.wrapper {
+    width: 1024px;
+    margin: 40px auto;
+}
+#summary{
+    font: arial;
+    width: 500px;
+    padding: 30px;
+    background: #F5F5F5;
+    color: black;   
+    margin-bottom: 25px;
+}
+#pic{
+    margin-bottom: 25px;
+}
+#contact{
+    width: 250px;
+    padding: 30px;
+    background: #F5F5F5;
+    color: black;
+    
+}
